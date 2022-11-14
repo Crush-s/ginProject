@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f397d559-28db-44b8-9603-34a42798aca1" name="119.29.35.226">
+        <fileTransfer rootFolder="/home/go/src" accessType="SFTP" host="119.29.35.226" port="22" sshConfigId="9994ce27-33f0-42bc-ac5c-9ae0ce338b53" sshConfig="ubuntu@119.29.35.226:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
